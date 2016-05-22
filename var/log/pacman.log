@@ -93,3 +93,76 @@
 [2016-05-22 15:13] [ALPM] transaction started
 [2016-05-22 15:13] [ALPM] upgraded pacman (5.0.0.6348.cc5a8f1-1 -> 5.0.1.6403.520736d-1)
 [2016-05-22 15:13] [ALPM] transaction completed
+[2016-05-22 15:17] [PACMAN] Running 'pacman -Syu'
+[2016-05-22 15:17] [PACMAN] synchronizing package lists
+[2016-05-22 15:17] [PACMAN] starting core system upgrade
+[2016-05-22 15:17] [ALPM] transaction started
+[2016-05-22 15:17] [ALPM] upgraded filesystem (2015.04-3 -> 2016.05-1)
+[2016-05-22 15:17] [ALPM] upgraded msys2-runtime (2.4.1.16860.40c26fc-1 -> 2.5.1-1)
+[2016-05-22 15:17] [ALPM] upgraded mintty (1~2.2.2-1 -> 1~2.2.3-1)
+[2016-05-22 15:17] [ALPM] transaction completed
+[2016-05-22 15:19] [PACMAN] Running 'pacman -Su'
+[2016-05-22 15:19] [PACMAN] starting core system upgrade
+[2016-05-22 15:19] [PACMAN] starting full system upgrade
+[2016-05-22 15:19] [ALPM] transaction started
+[2016-05-22 15:19] [ALPM] upgraded bash-completion (2.1-6 -> 2.3-1)
+[2016-05-22 15:19] [ALPM] upgraded gcc-libs (4.9.2-6 -> 5.3.0-3)
+[2016-05-22 15:19] [ALPM] upgraded libintl (0.19.6-1 -> 0.19.7-3)
+[2016-05-22 15:19] [ALPM] upgraded libgettextpo (0.19.6-1 -> 0.19.7-3)
+[2016-05-22 15:19] [ALPM] upgraded libasprintf (0.19.6-1 -> 0.19.7-3)
+[2016-05-22 15:19] [ALPM] upgraded gettext (0.19.6-1 -> 0.19.7-3)
+[2016-05-22 15:19] [ALPM] upgraded liblzma (5.2.1-1 -> 5.2.2-1)
+[2016-05-22 15:19] [ALPM] upgraded gmp (6.1.0-1 -> 6.1.0-2)
+[2016-05-22 15:19] [ALPM] upgraded libnettle (3.1.1-1 -> 3.2-1)
+[2016-05-22 15:19] [ALPM] upgraded coreutils (8.24-1 -> 8.25-1)
+[2016-05-22 15:19] [ALPM] upgraded ncurses (6.0.20151121-1 -> 6.0.20160220-1)
+[2016-05-22 15:19] [ALPM] upgraded bsdcpio (3.1.2-5 -> 3.2.0-1)
+[2016-05-22 15:19] [ALPM] upgraded bsdtar (3.1.2-5 -> 3.2.0-1)
+[2016-05-22 15:19] [ALPM] upgraded libcrypt (1.1-6 -> 1.3-1)
+[2016-05-22 15:19] [ALPM] upgraded crypt (1.1-6 -> 1.3-1)
+[2016-05-22 15:19] [ALPM] upgraded libopenssl (1.0.2.d-1 -> 1.0.2.h-1)
+[2016-05-22 15:19] [ALPM] upgraded heimdal-libs (1.5.3-8 -> 1.5.3-9)
+[2016-05-22 15:19] [ALPM] upgraded openssl (1.0.2.d-1 -> 1.0.2.h-1)
+[2016-05-22 15:19] [ALPM] upgraded gzip (1.6-1 -> 1.7-1)
+[2016-05-22 15:19] [ALPM] upgraded libexpat (2.1.0-2 -> 2.1.1-1)
+[2016-05-22 15:19] [ALPM] upgraded libcurl (7.46.0-2 -> 7.48.0-1)
+[2016-05-22 15:19] [ALPM] upgraded curl (7.46.0-2 -> 7.48.0-1)
+[2016-05-22 15:19] [ALPM] upgraded file (5.24-1 -> 5.25-1)
+[2016-05-22 15:19] [ALPM] upgraded gnupg (1.4.19-1 -> 1.4.20-1)
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: /etc/pacman.d/gnupg/trustdb.gpg: trustdb created
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: no ultimately trusted keys found
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: Generating pacman keyring master key...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: skipping control `%no-protection' ()
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ....+++++
+[2016-05-22 15:19] [ALPM-SCRIPTLET] +++++
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: key DEC1E4A2 marked as ultimately trusted
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: Done
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ==> Appending keys from msys2.gpg...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2016-05-22 15:19] [ALPM-SCRIPTLET]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2016-05-22 15:19] [ALPM-SCRIPTLET]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2016-05-22 15:19] [ALPM-SCRIPTLET]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...
+[2016-05-22 15:19] [ALPM-SCRIPTLET]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: inserting ownertrust of 4
+[2016-05-22 15:19] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   4  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: depth: 1  valid:   4  signed:   3  trust: 0-, 0q, 0n, 4m, 0f, 0u
+[2016-05-22 15:19] [ALPM-SCRIPTLET] gpg: depth: 2  valid:   3  signed:   0  trust: 3-, 0q, 0n, 0m, 0f, 0u
+[2016-05-22 15:19] [ALPM] upgraded grep (2.22-1 -> 2.22-3)
+[2016-05-22 15:19] [ALPM] upgraded libarchive (3.1.2-5 -> 3.2.0-1)
+[2016-05-22 15:19] [ALPM] upgraded mpfr (3.1.3.p0-1 -> 3.1.4-1)
+[2016-05-22 15:19] [ALPM] upgraded msys2-launcher-git (0.3.19.f91905f-1 -> 0.3.28.860c495-1)
+[2016-05-22 15:19] [ALPM] upgraded rebase (4.4.1-6 -> 4.4.2-1)
+[2016-05-22 15:19] [ALPM] upgraded xz (5.2.1-1 -> 5.2.2-1)
+[2016-05-22 15:19] [ALPM] upgraded repman-git (r23.87bf865-1 -> r25.92edb44-1)
+[2016-05-22 15:19] [ALPM] transaction completed
