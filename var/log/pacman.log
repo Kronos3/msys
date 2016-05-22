@@ -88,3 +88,8 @@
 [2016-02-05 20:49] [ALPM] installed libutil-linux (2.26.2-1)
 [2016-02-05 20:49] [ALPM] installed util-linux (2.26.2-1)
 [2016-02-05 20:49] [ALPM] transaction completed
+[2016-05-22 15:13] [PACMAN] Running 'pacman -Sy pacman'
+[2016-05-22 15:13] [PACMAN] synchronizing package lists
+[2016-05-22 15:13] [ALPM] transaction started
+[2016-05-22 15:13] [ALPM] upgraded pacman (5.0.0.6348.cc5a8f1-1 -> 5.0.1.6403.520736d-1)
+[2016-05-22 15:13] [ALPM] transaction completed
