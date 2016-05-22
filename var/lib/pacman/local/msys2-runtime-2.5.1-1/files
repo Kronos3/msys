@@ -34,9 +34,6 @@ usr/share/doc/Msys/
 usr/share/doc/Msys/COPYING
 usr/share/doc/Msys/CYGWIN_LICENSE
 usr/share/doc/Msys/cygserver.README
-usr/share/info/
-usr/share/info/configure.info.gz
-usr/share/info/standards.info.gz
 usr/share/man/
 usr/share/man/man2/
 usr/share/man/man3/

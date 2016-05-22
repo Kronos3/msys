@@ -1,39 +1,42 @@
 %NAME%
-mintty
+filesystem
 
 %VERSION%
-1~2.2.2-1
+2016.05-1
 
 %DESC%
-Terminal emulator with native Windows look and feel
+Base filesystem
 
 %URL%
-https://mintty.github.io
+https://sourceforge.net/projects/msys2/
 
 %ARCH%
 x86_64
 
 %BUILDDATE%
-1452581538
+1463375520
 
 %INSTALLDATE%
-1454694582
+1463944627
 
 %PACKAGER%
 Alexey Pavlov <alexpux@gmail.com>
 
 %SIZE%
-300032
+84992
 
 %GROUPS%
 base
 
 %LICENSE%
-GPL3
+BSD
 
 %VALIDATION%
 pgp
 
-%DEPENDS%
-sh
+%REPLACES%
+msys2-base
+
+%PROVIDES%
+msys2-base
 
