@@ -36,7 +36,7 @@ if "x%MSYSCON%" == "xconsole.exe" goto startconsolez
 
 :startmintty
 if NOT EXIST %WD%mintty.exe goto startsh
-start %WD%mintty -i /msys2.ico /usr/bin/sh install-gtk.sh
+start %WD%mintty -i /msys2.ico /usr/bin/sh gtk-script.sh
 exit
 
 :startconsolez
